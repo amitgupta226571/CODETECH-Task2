@@ -8,6 +8,7 @@
 
 **Overview of project**
 ![Uploading Screenshot 2024-06-26 225528.png…]()
+![Uploading Screenshot 2024-06-26 225637.png…]()
 
 
 **Project:** Personal Portfolio Website
