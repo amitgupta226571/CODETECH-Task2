@@ -7,6 +7,7 @@
 
 
 **Overview of project**
+![Screenshot 2024-06-26 225528](https://github.com/amitgupta226571/CODETECH-Task2/assets/163492672/2ae3ce89-d4d6-4d85-9f3b-28882c0ad0a1)
 
 **Project:** Personal Portfolio Website
 **Objetcive**
